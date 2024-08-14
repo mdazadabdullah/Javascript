@@ -1,5 +1,3 @@
-BigFrontEnd.dev
-
 ![alt text](image.png)
 
 Practice + Prepare = Offer
