@@ -1,5 +1,7 @@
 BigFrontEnd.dev
 
+![alt text](image.png)
+
 Practice + Prepare = Offer
 BFE.dev is the platform to
 practice your Front-End development skills,
